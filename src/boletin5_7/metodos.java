@@ -35,6 +35,7 @@ public class metodos {
             default:
                     JOptionPane.showMessageDialog(null,"Opcion invalida");
                     break;
+                //primera modificación
     }
         }
     
