@@ -11,6 +11,10 @@ public class Boletin5_7 {
         obxArea.calAreas();
         //primera modificación
         //nueva rama
+        //nueva rama 
+                //primera mod
+        //segunda mod
+        //juntar ramas
     }
     
 }

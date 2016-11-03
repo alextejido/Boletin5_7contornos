@@ -37,6 +37,10 @@ public class metodos {
                     break;
                 //primera modificación
                 //nueva rama
+                //nueva rama 
+                //primera mod
+                //segunda mod
+                //juntar ramas
     }
         }
     
