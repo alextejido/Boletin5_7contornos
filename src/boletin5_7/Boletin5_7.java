@@ -10,6 +10,8 @@ public class Boletin5_7 {
         metodos obxArea=new metodos();
         obxArea.calAreas();
         //primera modificación
+        //nueva rama 
+                //primera mod
     }
     
 }
